@@ -46,4 +46,4 @@ Contributions by :
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
     
 ---
-###Thank you to any and all contributors and thanks for taking the time to view this web app.
+###Thank you to any and all contributors and thanks to the viewers for taking the time to view this web app.
